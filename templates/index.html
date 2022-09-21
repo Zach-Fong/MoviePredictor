@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Movie Predictor</title>
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Movie Rating Predictor</h1>
+    <form action="/" method="POST" style="text-align: center">
+        <input type="text" name="search" id="search" size="33px">
+        <input type="submit" value="Predict Rating">
+    </form>
+    <h4 style="text-align: center; color: #333333">Enter a movie and click predict rating to predict movie rating based on 10 similar movies</h4>
+    <p style="text-align: center; color: #333333">It takes around 45 seconds to predict ratings</p>
+    <p style="text-align: center; color: #333333">Ratings based on The Movie Database</p>
+    {% if tasks|length < 1%}
+    <h4 style="text-align: center"><br>No movies predicted.</h4>
+    {% else %}  
+    <h3 style="text-align: center; color: #333333"><br>History</h3>
+    <table>
+        <tr>
+            <th>Movie Name</th>
+            <th>Predicted Rating</th>
+            <th>Actual Rating</th>
+            <th>Options</th>
+        </tr>
+        {% for task in tasks%}
+        <tr>
+            <td>{{ task.name }}</td>
+            <td>{{ task.predicted }}/10</td>
+            <td>{{ task.actual }}/10</td>
+            <td>
+                <a href="/delete/{{task.id}}">Delete</a>
+                <br>
+                <a href="/view/{{task.id}}">View</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block footer %}
+<footer>
+    <p><a href="/about">About this project</a></p>
+</footer>
+{% endblock %}

@@ -1,0 +1,160 @@
+tools used:
+flask
+virtual environment
+flask-sqlalchemy
+requests (api)
+json
+pandas
+
+random movie results:
+Unlocked difference predicted: 0.24100000000000055 | difference average: 0.04834675243826503
+Troy difference predicted: 0.11000000000000032 | difference average: 0.7093467524382655
+Clerks difference predicted: 1.2000000000000002 | difference average: 1.2093467524382655
+Mission: Impossible II difference predicted: 0.5699999999999994 | difference average: 0.2906532475617345
+New Nightmare difference predicted: 0.3800000000000008 | difference average: 0.2093467524382655
+Saving Mr. Banks difference predicted: 0.2599999999999998 | difference average: 1.109346752438265
+The Night Comes for Us difference predicted: 0.29800000000000004 | difference average: 0.6273467524382648
+The Secret of Kells difference predicted: 0.8099999999999996 | difference average: 1.109346752438265
+The Kissing Booth difference predicted: 0.9670000000000005 | difference average: 1.0763467524382655
+La prima cosa bella difference predicted: 0.21999999999999975 | difference average: 1.109346752438265
+The Fast and the Furious: Tokyo Drift difference predicted: 0.5200000000000005 | difference average: 0.0906532475617352
+Overboard difference predicted: 0.3100000000000005 | difference average: 0.5093467524382653
+Safety Not Guaranteed difference predicted: 0.11000000000000032 | difference average: 0.609346752438265
+The Darjeeling Limited difference predicted: 0.1899999999999995 | difference average: 1.0093467524382653
+The Wind That Shakes the Barley difference predicted: 0.25 | difference average: 0.9093467524382648
+Spontaneous difference predicted: 1.3339999999999996 | difference average: 0.8033467524382649
+The Polar Express difference predicted: 0.6299999999999999 | difference average: 0.2093467524382655
+I Spit on Your Grave 2 difference predicted: 0.06099999999999994 | difference average: 0.14834675243826556
+W. difference predicted: 0.5100000000000007 | difference average: 0.0906532475617352
+The Bone Collector difference predicted: 0.08000000000000007 | difference average: 0.30934675243826515
+Milk difference predicted: 0.1999999999999993 | difference average: 0.9093467524382648
+Delicatessen difference predicted: 0.8999999999999995 | difference average: 1.149346752438265
+Cradle 2 the Grave difference predicted: 0.1200000000000001 | difference average: 0.39065324756173503
+My Name Is Nobody difference predicted: 1.0199999999999996 | difference average: 0.19065324756173485
+The Mule difference predicted: 0.12600000000000033 | difference average: 0.6233467524382652
+火垂るの墓 difference predicted: 0.9089999999999998 | difference average: 1.7083467524382652
+A Christmas Prince: The Royal Wedding difference predicted: 0.20199999999999996 | difference average: 0.23134675243826486
+The Indian in the Cupboard difference predicted: 0.5199999999999996 | difference average: 0.2906532475617345
+Dheepan difference predicted: 0.28000000000000025 | difference average: 0.6393467524382652
+How to Train Your Dragon 2 difference predicted: 1.0699999999999994 | difference average: 1.4093467524382648
+L'ennemi public n°1 difference predicted: 0.9859999999999998 | difference average: 1.165346752438265
+Take the Money and Run difference predicted: 0.6779999999999999 | difference average: 0.9573467524382648
+State of Play difference predicted: 0.0600000000000005 | difference average: 0.5093467524382653
+Deepwater Horizon difference predicted: 0.23899999999999988 | difference average: 0.6283467524382651
+A Man Apart difference predicted: 1.25 | difference average: 0.39065324756173503
+The Drop difference predicted: 0.027000000000000135 | difference average: 0.5623467524382653
+Moana difference predicted: 1.0379999999999994 | difference average: 1.3773467524382648
+Loving difference predicted: 0.18599999999999994 | difference average: 0.5133467524382649
+The Founder difference predicted: 0.31400000000000006 | difference average: 0.9033467524382655
+Small Soldiers difference predicted: 0.1200000000000001 | difference average: 0.009346752438265327
+Rendition difference predicted: 0.6699999999999999 | difference average: 0.009346752438265327
+The Walk difference predicted: 0.13000000000000078 | difference average: 0.7093467524382655
+The Kings of Summer difference predicted: 0.0129999999999999 | difference average: 0.8563467524382649
+The Jungle Book difference predicted: 0.9199999999999999 | difference average: 1.109346752438265
+The Weekend Away difference predicted: 0.40500000000000025 | difference average: 0.17565324756173517
+Phineas and Ferb: The Movie: Across the 2nd Dimension difference predicted: 0.274 | difference average: 0.7033467524382653
+Sinister difference predicted: 0.5200000000000005 | difference average: 0.5093467524382653
+I Feel Pretty difference predicted: 0.13000000000000078 | difference average: 0.2093467524382655
+Strangers on a Train difference predicted: 0.7300000000000004 | difference average: 1.5093467524382653
+Just Go with It difference predicted: 0.4299999999999997 | difference average: 0.10934675243826497
+Total difference predicted: 4.7036000000000024%
+Total difference average: 6.529557916580201%
+
+random movies results:
+Forrest Gump difference predicted: 1.419999999999999 | difference average: 2.0093467524382644
+Eternal Sunshine of the Spotless Mind difference predicted: 1.12 | difference average: 1.7093467524382655
+King Kong difference predicted: 0.9500000000000002 | difference average: 0.4093467524382648
+Strange Days difference predicted: 0.29499999999999993 | difference average: 0.8243467524382648
+The Lost World: Jurassic Park difference predicted: 0.8799999999999999 | difference average: 0.009346752438265327
+Cube Zero difference predicted: 0.6819999999999995 | difference average: 0.5326532475617345
+Stranger Than Paradise difference predicted: 0.04999999999999982 | difference average: 1.0093467524382653
+Wild at Heart difference predicted: 0.07099999999999973 | difference average: 0.8583467524382655
+Contact difference predicted: 0.1299999999999999 | difference average: 1.0093467524382653
+The Spy Who Loved Me difference predicted: 0.17999999999999972 | difference average: 0.4093467524382648
+Face/Off difference predicted: 0.6299999999999999 | difference average: 0.609346752438265
+GoodFellas difference predicted: 0.6999999999999993 | difference average: 2.0093467524382644
+Blue Velvet difference predicted: 0.3340000000000005 | difference average: 1.4533467524382653
+Moulin Rouge! difference predicted: 0.3100000000000005 | difference average: 1.2093467524382655
+The Last Duel difference predicted: 0.8490000000000002 | difference average: 1.3283467524382653
+Close Encounters of the Third Kind difference predicted: 0.1299999999999999 | difference average: 1.0093467524382653
+Strangers on a Train difference predicted: 0.7300000000000004 | difference average: 1.5093467524382653
+Planet of the Apes difference predicted: 1.0460000000000003 | difference average: 1.455346752438265
+Cars difference predicted: 0.040000000000000036 | difference average: 0.4093467524382648
+The Pink Panther difference predicted: 1.0439999999999996 | difference average: 0.7533467524382651
+Lethal Weapon 2 difference predicted: 0.5989999999999993 | difference average: 0.8083467524382648
+The French Connection difference predicted: 0.8500000000000005 | difference average: 1.2093467524382655
+Point Break difference predicted: 0.7000000000000002 | difference average: 0.6906532475617349
+The Dreamers difference predicted: 0.3700000000000001 | difference average: 1.0493467524382654
+No Manches Frida difference predicted: 1.774 | difference average: 1.6133467524382654
+The Fountain difference predicted: 0.3100000000000005 | difference average: 0.609346752438265
+Parenthood difference predicted: 0.1200000000000001 | difference average: 0.5093467524382653
+Ray difference predicted: 0.45999999999999996 | difference average: 1.0093467524382653
+The Empire Strikes Back difference predicted: 1.129999999999999 | difference average: 2.0093467524382644
+Vanilla Sky difference predicted: 0.1900000000000004 | difference average: 0.30934675243826515
+4: Rise of the Silver Surfer difference predicted: 1.21 | difference average: 0.7906532475617345
+We Own the Night difference predicted: 0.25 | difference average: 0.30934675243826515
+Final Fantasy: The Spirits Within difference predicted: 0.04999999999999982 | difference average: 0.2906532475617345
+Closer difference predicted: 0.10000000000000053 | difference average: 0.5093467524382653
+Space Jam: A New Legacy difference predicted: 0.9740000000000002 | difference average: 0.7833467524382653
+Saving Grace difference predicted: 0.07000000000000028 | difference average: 0.3293467524382647
+Heathers difference predicted: 1.4219999999999997 | difference average: 1.141346752438265
+In the Mouth of Madness difference predicted: 0.7450000000000001 | difference average: 1.0443467524382655
+Basic Instinct 2 difference predicted: 1.9400000000000004 | difference average: 1.5906532475617352
+Barry Lyndon difference predicted: 0.20999999999999996 | difference average: 1.5093467524382653
+Mr. Brooks difference predicted: 0.2969999999999997 | difference average: 0.7163467524382652
+No Reservations difference predicted: 0.5600000000000005 | difference average: 0.0906532475617352
+The Lady from Shanghai difference predicted: 0.46999999999999975 | difference average: 1.0093467524382653
+Road to Perdition difference predicted: 0.3199999999999994 | difference average: 1.109346752438265
+Be Cool difference predicted: 1.46 | difference average: 0.7906532475617345
+Armored difference predicted: 0.9699999999999998 | difference average: 0.6906532475617349
+Leatherheads difference predicted: 1.0 | difference average: 0.4906532475617347
+An American Tail: Fievel Goes West difference predicted: 0.020000000000000462 | difference average: 0.10934675243826497
+The Fugitive difference predicted: 0.9900000000000002 | difference average: 1.0093467524382653
+Pee-wee's Big Adventure difference predicted: 0.09200000000000053 | difference average: 0.24734675243826487
+Total difference predicted: 6.248800000000001%
+Total difference average: 8.981419215604893%
+
+popular movie results (Imdb as of Sep 2, 2022)
+Top Gun: Maverick difference predicted: 1.5859999999999994 | difference average: 2.175346752438265
+Nope difference predicted: 0.3650000000000002 | difference average: 0.9243467524382654
+Bullet Train difference predicted: 1.2469999999999999 | difference average: 1.2963467524382652
+Prey difference predicted: 1.5679999999999987 | difference average: 1.8173467524382643
+Orphan: First Kill difference predicted: 1.4779999999999998 | difference average: 0.947346752438265
+Day Shift difference predicted: 0.7789999999999999 | difference average: 0.7383467524382654
+Samaritan difference predicted: 0.2140000000000004 | difference average: 0.7333467524382655
+Look Both Ways difference predicted: 0.4870000000000001 | difference average: 0.8763467524382653
+Top Gun: Maverick difference predicted: 1.5859999999999994 | difference average: 2.175346752438265
+Elvis difference predicted: 0.7059999999999995 | difference average: 1.7153467524382648
+The Gray Man difference predicted: 0.18900000000000006 | difference average: 0.8583467524382655
+Thirteen Lives difference predicted: 1.287 | difference average: 1.896346752438265
+Beast difference predicted: 0.2990000000000004 | difference average: 0.15834675243826535
+365 Days: This Day difference predicted: 1.1440000000000001 | difference average: 0.34465324756173477
+The Black Phone difference predicted: 1.7349999999999994 | difference average: 1.7443467524382648
+Me Time difference predicted: 0.2999999999999998 | difference average: 0.4006532475617348
+ドラゴンボール超 スーパーヒーロー difference predicted: 1.2270000000000003 | difference average: 1.636346752438265
+DC League of Super-Pets difference predicted: 1.2039999999999997 | difference average: 1.4133467524382652
+Orphan: First Kill difference predicted: 1.4779999999999998 | difference average: 0.947346752438265
+Where the Crawdads Sing difference predicted: 0.27000000000000046 | difference average: 1.0493467524382654
+Thor: Love and Thunder difference predicted: 0.009999999999999787 | difference average: 0.609346752438265
+Three Thousand Years of Longing difference predicted: 0.28000000000000025 | difference average: 0.7093467524382655
+The Invitation difference predicted: 0.8279999999999994 | difference average: 0.11734675243826498
+Everything Everywhere All at Once difference predicted: 1.9060000000000006 | difference average: 2.0653467524382654
+Bodies Bodies Bodies difference predicted: 0.5549999999999997 | difference average: 0.4543467524382647
+Purple Hearts difference predicted: 1.717999999999999 | difference average: 2.2173467524382646
+Jurassic World Dominion difference predicted: 0.5819999999999999 | difference average: 0.9013467524382648
+Fall difference predicted: 0.806 | difference average: 0.7453467524382651
+Uncharted difference predicted: 0.9779999999999998 | difference average: 0.9373467524382653
+X difference predicted: 0.4820000000000002 | difference average: 0.5113467524382651
+Vengeance difference predicted: 0.4349999999999996 | difference average: 0.9943467524382648
+Lightyear difference predicted: 0.23899999999999988 | difference average: 1.088346752438265
+लाल सिंह चड्ढा difference predicted: 1.2000000000000002 | difference average: 0.19065324756173485
+The Batman difference predicted: 1.5220000000000002 | difference average: 1.5513467524382651
+The Lost City difference predicted: 1.4329999999999998 | difference average: 0.5823467524382648
+Licorice Pizza difference predicted: 0.19299999999999962 | difference average: 0.8863467524382651
+The Northman difference predicted: 0.9029999999999996 | difference average: 1.0023467524382648
+Spin Me Round difference predicted: 0.96 | difference average: 1.390653247561735
+Spider-Man: No Way Home difference predicted: 1.3250000000000002 | difference average: 1.854346752438265
+The Godfather difference predicted: 1.33 | difference average: 2.2093467524382655
+Sing 2 difference predicted: 1.455 | difference average: 1.8443467524382653
+Total difference predicted: 9.338780487804877%
+Total difference average: 11.39303483669823%
