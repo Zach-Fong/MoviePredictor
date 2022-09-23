@@ -10,8 +10,8 @@ api_search = 'https://api.themoviedb.org/3/search/movie?'
 api_movie = 'https://api.themoviedb.org/3/movie/'
 
 app = Flask(__name__)
-# app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///predictions.db'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://wtdauhzrayrzjv:283578ae8e61abbd97942e7b656ad37e78f25eb3f0b681e50231b443952cf0b6@ec2-44-207-133-100.compute-1.amazonaws.com:5432/db88smvb6sau0p'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///predictions.db'
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://wtdauhzrayrzjv:283578ae8e61abbd97942e7b656ad37e78f25eb3f0b681e50231b443952cf0b6@ec2-44-207-133-100.compute-1.amazonaws.com:5432/db88smvb6sau0p'
 db = SQLAlchemy(app)
 
 class Todo(db.Model):
