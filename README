@@ -1,0 +1,4 @@
+To run this application navigate into the MachineLearningApp folder.
+Go to terminal and run: source env/bin/activate
+Then run: python3 app.py
+Navigate to localhost:5000 on a web browser and it should now be running
